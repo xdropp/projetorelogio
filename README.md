@@ -1,4 +1,4 @@
-# Meu projeto de estudo de HTML+CSS e JS
+# Meu projeto de estudo de HTML+CSS e JS ~ SEM USO DE BOOTSTRAP
 
 Nada demais.
 Apenas um projeto de um relógio virtual que toca um lo-fizinho de fundo.
